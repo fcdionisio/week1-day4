@@ -5,15 +5,15 @@ const About = () => {
     <>
 
       <div className="row">
-      <div className="col s1">
-        </div> 
+        <div className="col s1">
+        </div>
         <div className="col 10">
           <h2>About Us</h2>
         </div>
       </div>
 
       <div className="row">
-      <div className="col s3">
+        <div className="col s3">
         </div>
         <div className="col s6">
 
@@ -21,7 +21,7 @@ const About = () => {
             <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
           </div>
           <div className="col s3">
-        </div>          
+          </div>
         </div>
       </div>
 
